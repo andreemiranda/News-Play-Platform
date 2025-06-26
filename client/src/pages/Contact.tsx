@@ -256,8 +256,7 @@ export default function Contact() {
               
               <div className="mt-4 p-3 bg-orange-50 border border-orange-200 rounded-lg">
                 <p className="text-sm text-orange-800">
-                  <strong>Atendimento Digital:</strong> Nosso site está disponível 24/7 
-                  com atualizações automáticas a cada 25 segundos.
+                  <strong>Atendimento Digital:</strong> Nosso site está disponível 24/7.
                 </p>
               </div>
             </CardContent>
