@@ -15,7 +15,7 @@ export default function Footer() {
               <span className="text-xl font-bold">NewsPlay</span>
             </div>
             <p className="text-gray-300 text-sm leading-relaxed">
-              Seu portal de notícias em tempo real. Informação confiável, atualizada a cada 25 segundos diretamente do WordPress.
+              Seu portal de notícias em tempo real. Informação confiável, atualizada diretamente do WordPress.
             </p>
           </div>
 
